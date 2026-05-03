@@ -15,7 +15,7 @@
 - ☁️ **AWS Academy Graduate** — Cloud Foundations
 - 🏢 **Deloitte Australia** — Cyber Job Simulation (Forage)
 - 🛒 Freelance Shopify Developer — **Yalvista.in**
-- 🌐 Portfolio: [karthikjr.me](https://www.karthikjr.me)
+- 🌐 Portfolio: [karthikjr.me](https://karthikjr.me)
 
 ---
 
@@ -64,7 +64,7 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikjr11)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://www.karthikjr.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=google-chrome&logoColor=black)](https://karthikjr.me)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthikjr48)
 
 ---
