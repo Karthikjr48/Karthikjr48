@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karthik P</h1>
+<h1 align="center">Hi 👋, I'm Karthik jr</h1>
 <h3 align="center">Aspiring SOC Analyst | CS Student</h3> 
 
 <p align="center">
