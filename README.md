@@ -114,8 +114,12 @@ Built and deployed a complete **Shopify e-commerce website** for a client: produ
 
 <div align="center">
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthikjr48&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikjr48&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Karthikjr48&show_icons=true&theme=default&hide_border=true" alt="Karthik's GitHub stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Karthikjr48&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Karthikjr48&theme=default&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
