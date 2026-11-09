@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # 👋 Hi, I'm Karthik Jr
 
@@ -6,7 +6,7 @@
 
 *Learning to detect threats, building things that work, and shipping them for real.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-karthikjr.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karthikjr.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-karthikjr.web.app-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karthikjr.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karthikjr11-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikjr11)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loyolaignatiuskarthik@gmail.com)
 
@@ -137,7 +137,7 @@ Built and deployed a complete **Shopify e-commerce website** for a client: produ
 
 I'm open to **internships, entry-level SOC / security roles and freelance web projects**.
 
-- 🌐 Portfolio: [karthikjr.me](https://karthikjr.me)
+- 🌐 Portfolio: [karthikjr.web.app](https://karthikjr.web.app)
 - 💼 LinkedIn: [linkedin.com/in/karthikjr11](https://www.linkedin.com/in/karthikjr11)
 - 📧 Email: [loyolaignatiuskarthik@gmail.com](mailto:loyolaignatiuskarthik@gmail.com)
 
